@@ -1,4 +1,4 @@
-package de.sangamon.bincodec
+package de.sangamon.funreverse
 
 import java.nio.file._
 import java.time._
